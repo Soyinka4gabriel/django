@@ -1,5 +1,5 @@
 install the newest python
-run pip instal pipenv
+run pip install pipenv
 cerate a new forder and open on vs code 
 run pipenv install django 
 
